@@ -1,3 +1,4 @@
-Python
+( -i keeps stdin open)
+docker run -i siouxsieasylum/regex-validator
 
 web && mkdir grasshopper_py && cd grasshopper_py && python3.7 -m venv venv/ && source venv/bin/activate
